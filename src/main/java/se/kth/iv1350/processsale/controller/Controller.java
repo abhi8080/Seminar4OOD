@@ -60,6 +60,7 @@ public final class Controller {
         return sale.getTotalCost();
     }
 
+    
     /**
      * Discount request is signaled if customer is eligible for a discount.
      *
